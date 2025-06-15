@@ -5,3 +5,5 @@
 Источник данных об индексе потребительских цен: https://app.2lead.ru/index_potrebitelskih_cen_rosstat/?ysclid=mby3km4d2e747262478
 
 Реальная заработная плата рассчитывается как номинальная заработная плата за период t, деленная на отношение ИПЦ за период t к ИПЦ за период t-1: nominal_wage_t / (CPI_t / CPI_t-1)
+
+Визуализация проекта развернута на сервисе streamlit, ссылка на проект: https://wages-analyses-bszlmhtnmqr7nhtmavirrt.streamlit.app/
